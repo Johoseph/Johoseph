@@ -7,6 +7,6 @@ This GitHub is used for my personal projects - check them out and let me know wh
 ## What I'm listening to 🎸
 <p align="center">
   <a href="https://bandcamp-collection-readme.vercel.app/getCollection?username=Johoseph&theme=dark">
-    <img href="https://bandcamp-collection-readme.vercel.app/getCollection?username=Johoseph&theme=dark" alt="My bandcamp collection" />
+    <img src="https://bandcamp-collection-readme.vercel.app/getCollection?username=Johoseph&theme=dark" alt="My bandcamp collection" />
   </a>
 </p>
