@@ -12,5 +12,5 @@ jobs:
       - name: Send cache request
         uses: fjogeleit/http-request-action@master
         with:
-          url: "https://bandcamp-collection-readme.vercel.app/cacheUser?username=Johoseph"
+          url: "https://bandcamp-collection-readme.herokuapp.com/cacheUser?username=Johoseph"
           method: "GET"
