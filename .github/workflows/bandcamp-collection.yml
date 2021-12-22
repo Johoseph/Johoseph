@@ -7,8 +7,10 @@ on:
 
 jobs:
   cache-bandcamp-data:
-    - name: Send cache request
-      uses: fjogeleit/http-request-action@master
-      with:
-        url: "https://bandcamp-collection-readme.vercel.app/cacheUser?username=Johoseph"
-        method: "GET"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send cache request
+        uses: fjogeleit/http-request-action@master
+        with:
+          url: "https://bandcamp-collection-readme.vercel.app/cacheUser?username=Johoseph"
+          method: "GET"
