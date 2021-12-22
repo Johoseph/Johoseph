@@ -1,0 +1,14 @@
+name: Cache Bandcamp data
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  cache-bandcamp-data:
+    - name: Send cache request
+      uses: fjogeleit/http-request-action@master
+      with:
+        url: "https://bandcamp-collection-readme.vercel.app/cacheUser?username=Johoseph"
+        method: "GET"
