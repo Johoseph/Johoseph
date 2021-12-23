@@ -4,10 +4,6 @@ I am a software engineer living in Australia. I am currently working at [bdna](h
 
 This GitHub is used for my personal projects - check them out and let me know what you think!
 
-## What I'm listening to 🎸
+### Check out my tunes 🎙🎸
 
-<p align="center">
-  <a href="https://bandcamp-collection-readme.herokuapp.com/getCollection?username=Johoseph&theme=dark">
-    <img src="https://bandcamp-collection-readme.herokuapp.com/getCollection?username=Johoseph&theme=dark" alt="My bandcamp collection" />
-  </a>
-</p>
+[![My bandcamp collection](https://bandcamp-collection-readme.herokuapp.com/getCollection?username=Johoseph&theme=dark)](https://bandcamp-collection-readme.herokuapp.com/getCollection?username=Johoseph&theme=dark)
