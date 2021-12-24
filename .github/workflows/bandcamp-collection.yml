@@ -2,7 +2,7 @@ name: Cache Bandcamp data
 on:
   schedule:
     # Runs every hour
-    - cron: "0 * * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
 
 jobs:
