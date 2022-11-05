@@ -2,7 +2,7 @@ name: Cache Bandcamp data
 on:
   schedule:
     # Runs every hour
-    - cron: "*/20 * * * *"
+    - cron: "*/60 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,6 @@ jobs:
       - name: Send cache request
         uses: fjogeleit/http-request-action@master
         with:
-          url: "https://bandcamp-collection-readme.herokuapp.com/cacheUser?username=Johoseph"
+          url: "https://bandcamp-collection-readme.onrender.com/cacheUser?username=Johoseph"
           method: "GET"
           timeout: 20000
