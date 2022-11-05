@@ -6,4 +6,4 @@ This GitHub is used for my personal projects - check them out and let me know wh
 
 ### Check out my tunes 🎙🎸
 
-[![My bandcamp collection](https://bandcamp-collection-readme.herokuapp.com/getCollection?username=Johoseph&theme=dark)](https://bandcamp-collection-readme.herokuapp.com/getCollection?username=Johoseph&theme=dark)
+[![My bandcamp collection](https://bandcamp-collection-readme.onrender.com/getCollection?username=Johoseph&theme=dark)](https://bandcamp-collection-readme.onrender.com/getCollection?username=Johoseph&theme=dark)
