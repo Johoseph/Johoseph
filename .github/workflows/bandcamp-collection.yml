@@ -14,4 +14,4 @@ jobs:
         with:
           url: "https://bandcamp-collection-readme.onrender.com/cacheUser?username=Johoseph"
           method: "GET"
-          timeout: 30000
+          timeout: 60000
