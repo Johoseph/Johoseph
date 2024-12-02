@@ -4,6 +4,6 @@ I am a software engineer living in Australia. I am currently working at [bdna](h
 
 This GitHub is used for my personal projects - check them out and let me know what you think!
 
-### Check out my tunes 🎙🎸
+### Check out what I'm listening too 🎙🎸
 
 [![My bandcamp collection](https://bandcamp-collection-readme.vercel.app/getCollection?username=Johoseph&theme=dark)](https://bandcamp-collection-readme.vercel.app/getCollection?username=Johoseph&theme=dark)
